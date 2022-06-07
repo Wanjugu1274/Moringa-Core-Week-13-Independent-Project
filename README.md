@@ -11,13 +11,6 @@ and Armenia. The brand’s Sales and Marketing team would like to understand the
 behavior from data that they have collected over the past year. More specifically, they would 
 like to learn the characteristics of customer groups. 
 
-# Description for individuals most likely to click on ads
-A Kenyan entrepreneur has created an online cryptography course and would want to advertise it on her blog.
-She currently targets audiences originating from various countries. In the past, she ran ads to advertise a
-related course on the same blog and collected data in the process. She would now like to employ your services 
-as a Data Science Consultant to help her identify which individuals are most likely to click on her ads.
-
-
 # Experimental Design
 * Problem Definition
 * Data Sourcing
